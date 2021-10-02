@@ -4,7 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Hi!!!" << endl;
-
-    return 0;
+    cout << "app2" << endl;
 }
